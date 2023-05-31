@@ -3,6 +3,10 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+
+      gridTemplateRows: {
+        '[auto,auto,1fr]': 'auto auto 1fr',
+      },
       width: {
         150: "150px",
         190: "190px",
@@ -58,6 +62,6 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require("tailwind-scrollbar")],
 }
 

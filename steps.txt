@@ -8,3 +8,13 @@ yarn global add create-react-app
 create-react-app my-app
 
 yarn tailwind init -p
+
+
+git status
+git add .
+git commit -m "initializing project structure"
+git push origin master
+
+yarn add firebase framer-motion react-icons react-router-dom
+
+yarn add tailwind-scrollbar
