@@ -18,3 +18,8 @@ git push origin master
 yarn add firebase framer-motion react-icons react-router-dom
 
 yarn add tailwind-scrollbar
+
+firebase project id- fullstack-food-app-react-v1
+firebase project name -fullstack-food-app-react-v1
+
+git repo - shehansn/fullstack_food_app_react_v1
